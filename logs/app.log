@@ -1,0 +1,13 @@
+2023-05-30 12:55:02,285 INFO Main [main] Startup!
+2023-05-30 12:55:12,097 INFO V.MainView [main] User added new shape of type Circle
+2023-05-30 12:55:14,354 INFO C.ShapeController [main] Exiting
+2023-05-30 12:55:14,359 INFO C.ShapeController [main] All changes saved.
+2023-05-30 12:59:14,202 INFO Main [main] Startup!
+2023-05-30 12:59:16,110 INFO V.MainView [main] Unexisting command: [Ljava.lang.String;@22d7b4f8
+2023-05-30 12:59:18,478 INFO V.MainView [main] User got all shapes
+2023-05-30 12:59:29,486 INFO V.MainView [main] User queried shapes of type circle
+2023-05-30 12:59:33,224 INFO C.ShapeController [main] Exiting
+2023-05-30 12:59:33,242 INFO C.ShapeController [main] All changes saved.
+2023-05-30 13:02:27,388 INFO Main [main] Startup!
+2023-05-30 13:02:32,209 INFO C.ShapeController [main] Exiting
+2023-05-30 13:02:32,229 INFO C.ShapeController [main] All changes saved.
